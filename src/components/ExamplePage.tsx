@@ -24,6 +24,7 @@ export default function ExamplePage() {
             <Text component="p">
               <span className="console-plugin-template__nice">Nice!</span> Your
               plugin is working.
+              This is your dynamic console plugin page.
             </Text>
             <Text component="p">
               This is a custom page contributed by the console plugin template.
